@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "IsoFlagger"
 include(":app")
- 
+include(":xml")
