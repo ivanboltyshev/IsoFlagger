@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="513"
+    android:viewportHeight="342"
+    android:width="513dp"
+    android:height="342dp">
+    <group>
+        <clip-path
+            android:pathData="M0 0h513v342H0z" />
+        <path
+            android:pathData="M0 0h513v342H0V0Z"
+            android:fillColor="#FFDA44" />
+        <path
+            android:pathData="M0 0h171v342H0V0Z"
+            android:fillColor="#0052B4" />
+        <path
+            android:pathData="M342 0h171v342H342V0ZM198.9 113.6H256v64.8h-57.1v-64.8Z"
+            android:fillColor="#D80027" />
+        <path
+            android:pathData="M267.6 113.6v64.7 -64.7Zm16.6 0v64.7 -64.7Zm16.6 0v64.7 -64.7Z"
+            android:fillColor="#000000" />
+        <path
+            android:pathData="M271.1 113.6v64.7h-7v-64.7h7Zm16.6 0v64.7h-7v-64.7h7Zm9.6 64.7v-64.7h7v64.7h-7Z"
+            android:fillType="evenOdd"
+            android:fillColor="#D80027" />
+        <path
+            android:pathData="M247.4 178.4v64.7 -64.7Zm-13.3 0v64.7 -64.7Zm-13.3 0.1v53.9 -53.9Zm-13.7 0v47.1 -47.1Z"
+            android:fillColor="#000000" />
+        <path
+            android:pathData="M236.6 178.4v64.7h-5v-64.7h5Zm13.3 0v64.7h-5v-64.7h5Zm-45.3 47.2v-47.1h5v47.1h-5Zm18.7 -47.1v53.9h-5v-53.9h5Z"
+            android:fillType="evenOdd"
+            android:fillColor="#D80027" />
+        <path
+            android:pathData="M199.9 146l27.6 -32.4 28.5 32.3 -28.1 32.4 -28 -32.3Z"
+            android:fillColor="#FFDA44" />
+        <path
+            android:pathData="M182.2 95.9v92.2c0 34.3 27.3 54.2 48.6 64.5 -0.8 1.4 25.1 8.3 25.1 8.3s25.9 -6.9 25.1 -8.3c21.4 -10.3 48.6 -30.1 48.6 -64.5V95.9H182.2Zm129.9 92.2c0 16.9 -10 29.4 -32.8 43.9 -8.6 5.5 -17.5 9 -23.3 11 -5.8 -2 -14.7 -5.5 -23.3 -11 -22.8 -14.5 -32.8 -28 -32.8 -43.9v-74.5h112.2v74.5Z"
+            android:fillColor="#BC8B00" />
+        <path
+            android:pathData="M264.4 188.9h29.5v8.6h-29.5v-8.6Zm0 17.6h29.5v8.6h-29.5v-8.6Z"
+            android:fillColor="#D80027" />
+    </group>
+</vector>

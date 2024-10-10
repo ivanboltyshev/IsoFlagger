@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="513"
+    android:viewportHeight="343"
+    android:width="513dp"
+    android:height="343dp">
+    <group>
+        <clip-path
+            android:pathData="M0 0.959h513v342H0z" />
+        <path
+            android:pathData="M0 0.959h513v342H0v-342Z"
+            android:fillColor="#C8102E" />
+        <path
+            android:pathData="M0 1.059h256.5v171H0v-171Z"
+            android:fillColor="#012169" />
+        <path
+            android:pathData="M256 0.959h-22.6l-73.4 48.9V0.959H96v48.9L22.6 0.959H0v22.7l46.1 30.7H0v64h46.1L0 149.059v22.6h22.6l73.4 -48.9v48.9h64v-48.9l73.4 48.9H256v-22.6l-46.1 -30.7H256v-64h-46.1l46.1 -30.7V0.959Z"
+            android:fillColor="#FFFFFF" />
+        <path
+            android:pathData="M144 0.959h-32v69.4H0v32h112v69.3h32v-69.3h112v-32H144V0.959Z"
+            android:fillColor="#C8102E" />
+        <path
+            android:pathData="M0 171.659v-11l62.5 -42.3h22.6l-77.8 53.3H0Zm7.3 -170.6l77.8 53.2H62.5L0 12.059v-11h7.3Zm248.7 0v11l-62.5 42.3h-22.6l77.8 -53.3h7.3Zm-7.3 170.6l-77.8 -53.3h22.6l62.5 42.3v11h-7.3Z"
+            android:fillColor="#C8102E" />
+        <path
+            android:pathData="M316.9 100.899v99.69c0 59.81 79.75 99.69 79.75 99.69s79.75 -39.88 79.75 -99.69v-99.69H316.9Z"
+            android:fillColor="#FFFFFF" />
+        <path
+            android:pathData="M449.37 260.399H343.93c23.13 25.08 52.72 39.88 52.72 39.88s29.59 -14.8 52.72 -39.88Z"
+            android:fillColor="#2F8F22" />
+        <path
+            android:pathData="M396.65 260.4c22.025 0 39.88 -17.855 39.88 -39.88 0 -22.025 -17.855 -39.88 -39.88 -39.88 -22.025 0 -39.88 17.855 -39.88 39.88 0 22.025 17.855 39.88 39.88 39.88Z"
+            android:fillColor="#65B5D2" />
+        <path
+            android:pathData="M356.77 220.529c11.013 0 19.94 -8.927 19.94 -19.94 0 -11.012 -8.927 -19.94 -19.94 -19.94 -11.013 0 -19.94 8.928 -19.94 19.94 0 11.013 8.927 19.94 19.94 19.94Zm79.75 0c11.013 0 19.94 -8.927 19.94 -19.94 0 -11.012 -8.927 -19.94 -19.94 -19.94 -11.013 0 -19.94 8.928 -19.94 19.94 0 11.013 8.927 19.94 19.94 19.94Zm-39.87 -39.879c11.013 0 19.94 -8.928 19.94 -19.94 0 -11.013 -8.927 -19.94 -19.94 -19.94 -11.013 0 -19.94 8.927 -19.94 19.94 0 11.012 8.927 19.94 19.94 19.94Z"
+            android:fillColor="#C8102E" />
+    </group>
+</vector>
